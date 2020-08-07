@@ -7,7 +7,7 @@
 #' of a local identification of the given neural network.  If this assumption
 #' is violated, the results will not be reasonable. Please make also sure that
 #' the chosen error function equals the negative log-likelihood function,
-#' otherwise the results are not meaningfull, too.
+#' otherwise the results are not meaningful, too.
 #' 
 #' 
 #' @param x neural network
